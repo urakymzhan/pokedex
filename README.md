@@ -4,5 +4,5 @@
 In the project directory, you can run:
 ### `npm start`
 
-> Credit to Colt Steele for original idea
+Credit to Colt Steele for original idea
 
